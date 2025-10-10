@@ -7,7 +7,7 @@
 ## 👋 Hello, I’m Victor  
 💻 IT Student | 🎨 Creator | 🚀 Future Developer
 
-[![GitHub followers](https://img.shields.io/github/followers/Victor?label=Follow&style=social)](https://github.com/Victor)
+[![GitHub followers](https://img.shields.io/github/followers/Magnes77?label=Follow&style=social)](https://github.com/Magnes77)
 
 
 <h3 align="center">A young Developer & IT Student from Poland 👋</h3> 
