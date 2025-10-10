@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A young Developer & IT Student from Poland 👋</h3>
 
-<h3 align="center"> Hi, I'm Wiktor — a young Developer & IT Student from Poland 👋  
+<h3 align="center"> Hi, I'm Victor — a young Developer & IT Student from Poland 👋  
 
 💻 I'm currently studying Computer Science at a Technical IT School in Poland  
 🧠 I’m learning Java, React, SQL, Python, and many others. While building my own projects  
