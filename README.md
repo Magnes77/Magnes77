@@ -10,7 +10,11 @@
 📚 Currently working on small fullstack and API-based projects using Spring Boot and React  
 💬 Feel free to explore my repositories or reach out — I’m always open to learning and collaboration!
 📫 How to reach me:
-✉️ [Email me](wiktorcieplinski01@gmail.com)
+✉️ ### 📬 How to reach me  
+### 📬 How to reach me  
+[![Email](https://img.shields.io/badge/Email-wiktorcieplinski01%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:wiktorcieplinski01@gmail.com)
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magnes77" alt="magnes77" /></a> </p>
 
