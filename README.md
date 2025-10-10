@@ -10,7 +10,6 @@
 📚 Currently working on small fullstack and API-based projects using Spring Boot and React  
 💬 Feel free to explore my repositories or reach out — I’m always open to learning and collaboration!
 ### 📬 How to reach me
-### 📬 How to reach me
 [![Email](https://img.shields.io/badge/Email-wiktorcieplinski01%40gmail.com-FFD700?style=flat-square&logo=gmail&logoColor=black)](mailto:wiktorcieplinski01@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Wiktor.Cieplinskii/)
 [![X / Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/W_Magnescs)
