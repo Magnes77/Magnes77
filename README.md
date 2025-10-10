@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://s8.ezgif.com/tmp/ezgif-82e96e3bcb53f7.gif" alt="Hello, I'm Victor 👋" width="100%">
+  <img src="https://github.com/Magnes77/Magnes77/blob/main/banner.gif?raw=true" alt="Hello, I'm Victor 👋" width="100%">
 </p>
+
+<br>
 
 
 <h3 align="center">A young Developer & IT Student from Poland 👋</h3> 
