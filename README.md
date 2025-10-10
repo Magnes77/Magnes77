@@ -1,4 +1,14 @@
-<h1 align="center">Hi 👋, I'm Victor</h1>
+<p align="center">
+  <img src="assets/banner.gif" alt="Hello, I'm Victor 👋" width="100%">
+</p>
+
+<br>
+
+## 👋 Hello, I’m Victor  
+💻 IT Student | 🎨 Creator | 🚀 Future Developer
+
+[![GitHub followers](https://img.shields.io/github/followers/Victor?label=Follow&style=social)](https://github.com/Victor)
+
 
 <h3 align="center">A young Developer & IT Student from Poland 👋</h3> 
 
