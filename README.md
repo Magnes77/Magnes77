@@ -9,8 +9,11 @@
 🎮 I’m also interested in GameDev and sometimes experiment with AI, bots, and small 2D games  
 📚 Currently working on small fullstack and API-based projects using Spring Boot and React  
 💬 Feel free to explore my repositories or reach out — I’m always open to learning and collaboration!
-### 📬 How to reach me  
+### 📬 How to reach me
 [![Email](https://img.shields.io/badge/Email-wiktorcieplinski01%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:wiktorcieplinski01@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-0078FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Wiktor.Cieplinskii/)
+[![X / Twitter](https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/W_Magnescs)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/victor_cieplinski_/)
 
 
 
