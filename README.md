@@ -5,6 +5,7 @@
 <br>
 
 
+
 <h3 align="center">A young Developer & IT Student from Poland 👋</h3> 
 
 💻 I'm currently studying Computer Science at a Technical IT School in Poland  
